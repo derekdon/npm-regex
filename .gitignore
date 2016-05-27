@@ -1,0 +1,10 @@
+.DS_Store
+.tmp
+.git
+.idea
+node_modules
+.settings
+*.log
+dist/
+lib
+npm-debug.log
